@@ -6,7 +6,7 @@ date: 2017-06-19 15:43:20
 toc: true
 ---
 
-For more than a year, I have been meaning to read Tim Ferriss's famous book which was semi-written for millenials. If you tend to read certain subreddits ([/r/financialindependance](http://www.reddit.com/r/financialindependance), [/r/stoicism](http://www.reddit.com/r/stoicism), etc) as I do then you will see his name come up on book recommendation threads. I also have friends who are into self improvement content, and they have been hounding me to read it so we can discuss it.
+For more than a year, I have been meaning to read Tim Ferriss's famous book which was semi-written for millennials. If you tend to read certain subreddits ([/r/financialindependance](http://www.reddit.com/r/financialindependance), [/r/stoicism](http://www.reddit.com/r/stoicism), etc) as I do then you will see his name come up on book recommendation threads. I also have friends who are into self improvement content, and they have been hounding me to read it so we can discuss it.
 
 <!--more-->
 
@@ -35,7 +35,7 @@ In the book, Tim writes that one of the easiest ways to a four hour work week is
 
 In order for your book to sell, you need to become an "expert" on a topic. That comes from having validation from a respectable source, such as a certification body. Ok, so this is where the problem comes in. Is Tim Ferriss a respectable source for entrepreneurship advice? Yes. Because he started a successful supplement product line. He was validated by the free market.
 
-So is the book, just another source of passive income for Tim? Could it be, that he got lucky, then realising that he could claim it was part of a proven process, he could create a positive feedback loop. He writes a book, that at the most basic level is just saying "create sources of passive income", of which the book is a passive source of income for him. He's not lying, but what he is selling isn't what you think it is.
+So is the book, just another source of passive income for Tim? Could it be, that he got lucky, then realizing that he could claim it was part of a proven process, he could create a positive feedback loop. He writes a book, that at the most basic level is just saying "create sources of passive income", of which the book is a passive source of income for him. He's not lying, but what he is selling isn't what you think it is.
 
 Because you buy the book, assuming it is an instruction manual that you can use to duplicate his success. Which it could be. But you don't know that, because it could equally be in the author's interest to lie to you and sell you a book full of dreams. He wants people to think its possible, because then his passive income works and then it becomes possible. But only for him.
 
