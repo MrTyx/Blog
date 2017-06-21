@@ -18,6 +18,13 @@
 * **[SweetAlert2](https://limonte.github.io/sweetalert2/)** A replacement for javascript's popup boxes. Zero dependencies.
 * **[Marp](https://yhatt.github.io/marp/)** Create slides with markdown.
 * **[Material Icons](https://material.io/icons/)** Icons available in a variety of sizes and densities, and as a web font.
+* **[Chalk](https://github.com/chalk/chalk)** Terminal string styling done right
+
+## Mock API
+* [Faker.js](https://github.com/marak/Faker.js/)
+* [Chance.js](http://chancejs.com/)
+* [randexp.js](https://fent.github.io/randexp.js/)
+* [json-server](https://github.com/typicode/json-server)
 
 ---
 
