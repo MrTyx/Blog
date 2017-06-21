@@ -6,6 +6,8 @@ categories:
 toc: true
 ---
 
+<!--more-->
+
 ## Bal
 ![](/images/regex/vola1.JPG)
 
