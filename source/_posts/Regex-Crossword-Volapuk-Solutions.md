@@ -6,6 +6,8 @@ categories:
 toc: true
 ---
 
+[Play Regex Crossword here](https://www.regexcrossword.com)
+
 <!--more-->
 
 ## Bal
