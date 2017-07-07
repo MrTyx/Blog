@@ -2,7 +2,9 @@
 title: Regex Crossword Double Solutions
 date: 2017-06-21 12:31:08
 categories:
-  - Regex Crossword
+  - Fun and Games
+tags:
+  - regex crossword
 toc: true
 ---
 

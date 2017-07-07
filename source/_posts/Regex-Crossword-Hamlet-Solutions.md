@@ -2,7 +2,9 @@
 title: Regex Crossword Hamlet Solutions
 date: 2017-06-21 16:59:39
 categories:
-  - Regex Crossword
+  - Fun and Games
+tags:
+  - regex crossword
 toc: true
 ---
 

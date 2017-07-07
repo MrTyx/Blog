@@ -54,6 +54,9 @@ title: Resources
 ## Guides
 * [Derek Wyatt's VIM screencasts](http://derekwyatt.org/vim/tutorials/)
 
+## Resources
+* bytefluent.com/vivify
+
 ---
 
 # Other

@@ -2,7 +2,9 @@
 title: Regex Crossword Hexagonal Solutions
 date: 2017-06-25 21:57:32
 categories:
-  - Regex Crossword
+  - Fun and Games
+tags:
+  - regex crossword
 toc: true
 ---
 

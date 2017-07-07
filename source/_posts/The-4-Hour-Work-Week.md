@@ -1,7 +1,9 @@
 ---
 title: The 4-Hour Work Week
 categories:
-  - Book Review
+  - Book Reviews
+tag:
+  - non-fiction
 date: 2017-06-19 15:43:20
 toc: true
 ---

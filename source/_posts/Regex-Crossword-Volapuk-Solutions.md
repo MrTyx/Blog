@@ -2,7 +2,9 @@
 title: Regex Crossword Volapük Solutions
 date: 2017-06-21 15:09:46
 categories:
-  - Regex Crossword
+  - Fun and Games
+tags:
+  - regex crossword
 toc: true
 ---
 

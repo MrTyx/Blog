@@ -2,7 +2,9 @@
 title: Regex Crossword Palindromeda Solutions
 date: 2017-06-20 21:53:26
 categories:
-  - Regex Crossword
+  - Fun and Games
+tags:
+  - regex crossword
 toc: true
 ---
 

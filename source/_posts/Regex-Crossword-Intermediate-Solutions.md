@@ -2,7 +2,9 @@
 title: Regex Crossword Intermediate Solutions
 date: 2017-06-19 15:11:20
 categories:
-  - Regex Crossword
+  - Fun and Games
+tags:
+  - regex crossword
 toc: true
 ---
 

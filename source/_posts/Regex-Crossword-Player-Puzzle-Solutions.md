@@ -2,7 +2,9 @@
 title: Regex Crossword Player Puzzle Solutions
 date: 2017-06-25 20:30:30
 categories:
-  - Regex Crossword
+  - Fun and Games
+tags:
+  - regex crossword
 toc: true
 ---
 
