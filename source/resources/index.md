@@ -2,6 +2,8 @@
 title: Resources
 ---
 
+https://github.com/epicmaxco/vuestic-admin
+
 # Javascript
 ## Learning Resources
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)

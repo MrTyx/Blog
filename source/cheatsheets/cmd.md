@@ -2,6 +2,8 @@
 title: Windows CMD
 ---
 
+start .
+
 # CMD
 ## System Information
 * System information

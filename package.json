@@ -3,7 +3,9 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "update": "hexo clean && hexo deploy"
+    "test": "md2resume ./source/_template/resume.md",
+    "update": "hexo clean && hexo deploy",
+    "generate-resume": "md2resume.cmd --pdf ./source/about/resume.md"
   },
   "hexo": {
     "version": "3.3.7"
@@ -22,6 +24,7 @@
     "hexo-renderer-sass": "^0.3.2",
     "hexo-renderer-stylus": "^0.3.1",
     "hexo-server": "^0.2.0",
-    "hexo-tag-bootstrap": "0.0.8"
+    "hexo-tag-bootstrap": "0.0.8",
+    "markdown-resume": "^0.1.0"
   }
 }
