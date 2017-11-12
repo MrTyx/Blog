@@ -8,7 +8,6 @@ tags:
 
 Implementation of a Vigenere Cipher in javascript.
 
-
 <!--more-->
 
 At first, it appears scary. But really it is just an addition table.

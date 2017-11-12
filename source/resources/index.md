@@ -3,6 +3,9 @@ title: Resources
 ---
 
 https://github.com/epicmaxco/vuestic-admin
+https://github.com/yangshun/tech-interview-handbook
+https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5
+https://www.redblobgames.com/grids/hexagons/
 
 # Javascript
 ## Learning Resources

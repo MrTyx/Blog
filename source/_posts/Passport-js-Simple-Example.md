@@ -2,13 +2,12 @@
 title: Passport.js Simple Example
 date: 2017-07-02 01:48:10
 toc: true
-categories:
-  - Javascript
+categories: Javascript
 tags:
-  - javascript
-  - password.js
-  - express
-  - mocha
+- javascript
+- password.js
+- express
+- mocha
 ---
 
 This is a simple example to demonstrate [Passport.js](http://passportjs.org/) using a basic local strategy.

@@ -17,6 +17,14 @@ git config --global user.email "camerontyrel@gmail.com"
 git config --global color.ui auto
 ```
 
+## Summary Update
+```bash
+git remote update
+git status -v
+git diff --name-only origin master
+git pull
+```
+
 ## Other
 * Change filename `git mv CURRENT NEW_FILENAME`
 * File history `git log --follow FILENAME`
